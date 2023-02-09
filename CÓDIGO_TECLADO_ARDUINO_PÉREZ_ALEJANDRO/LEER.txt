@@ -1,0 +1,27 @@
+ -------------------------------------------------------------------------------------------
+ CÓDIGO TECLADO (PARA EL FUNCIONAMIENTO DEL TECLADO NUMÉRICO 4X4)
+ -------------------------------------------------------------------------------------------
+
+	·Esta configuración de pines para Arduino, corresponde con la carpeta
+		"CÓDIGO_TECLADO_ARDUINO_PÉREZ_ALEJANDRO", permitiendo el uso
+			del teclado matricial 4x4.
+
+
+
+					1	2	3	A
+
+
+					4	5	6	B
+
+
+					7	8	9	C
+
+	
+					#	0	*	D
+
+
+
+	 	· FILA 1: 1 2 3 A (CONECTOR 1)      · COLUMNA 1: 1 4 7 # (CONECTOR 5)
+		· FILA 2: 4 5 6 B	(CONECTOR 2)    	· COLUMNA 2: 2 5 8 0 (CONECTOR 6)
+		· FILA 3: 7 8 9 C	(CONECTOR 3)	· COLUMNA 3: 3 6 9 * (CONECTOR 7)
+		· FILA 4: # 0 * D	(CONECTOR 4)	· COLUMNA 4: A B C D (CONECTOR 8)
