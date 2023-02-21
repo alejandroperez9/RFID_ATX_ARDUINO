@@ -1,0 +1,24 @@
+------------------------------------------------------------
+Lista de materiales para la construción de fuente ATX-RFID:
+------------------------------------------------------------
+    
+   ---------------------------
+    Construcción del cuerpo:
+   ---------------------------
+      - Fuente de alimentación ATX.
+	- Bridas.
+	- Cinta aislante.
+	- Fichas de conexión // empalme.
+
+     
+   --------------------------- 
+    Componentes electrónicos:
+   ---------------------------
+      - Arduino Uno o similar.
+	- Pantalla LCD. 
+	- Módulo I2C.
+	- x1 LED.
+	- Módulo RFID.
+      - x1 Potenciometros de 10 kohm.
+	- x1 Módulo de Relé.
+      - Jumpers o cables de conexión.
