@@ -157,7 +157,7 @@ void pantalla_denegado(){
   delay(1000);
 
   digitalWrite(5, HIGH);
-  delay(1500);
+  delay(5000);
   digitalWrite(5, LOW);
 
   lcd.clear();
