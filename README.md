@@ -10,4 +10,4 @@ Todo esto va complementado con una pantalla LCD, la cual te muestra si tu acceso
 
 CC BY-NC-SA 3.0 ES Alejandro Pérez
 
-![CC](/images/CC-BY-NC-SA-4.0.jpg)
+![CC](/LIBRERIAS/CC-BY-NC-SA-4.0.jpg)
