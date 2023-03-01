@@ -1,3 +1,7 @@
+/*
+CC BY-NC-SA 3.0 ES Alejandro Pérez
+*/
+
 #include <SPI.h>
 #include <MFRC522.h>
 

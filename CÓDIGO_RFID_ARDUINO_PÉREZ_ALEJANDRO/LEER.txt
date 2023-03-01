@@ -1,5 +1,5 @@
  -------------------------------------------------------------------------------------------
- CÓDIGO DE LECTURA RFID (PARA CONOCER EL NUMERO VÁLIDO DE TARJETA)
+ CÓDIGO DE LECTURA RFID (PARA CONOCER EL NUMERO VÁLIDO DE TARJETA) CC BY-NC-SA 3.0 ES Alejandro Pérez
  -------------------------------------------------------------------------------------------
 
 	·Esta configuración de pines para Arduino, corresponde con la carpeta
